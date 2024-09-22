@@ -1,2 +1,2 @@
 # Final-Year-Project
-Front-end and AI project.
+Front-end, back-end, and AI project.
