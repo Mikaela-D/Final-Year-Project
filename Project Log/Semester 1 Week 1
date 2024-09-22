@@ -4,14 +4,14 @@ I found a good project idea called "AI Full-Stack Development Education Platform
 Project Description: 
   The AI Full-Stack Development Education Platform is a website that aims to teach students full-stack development. The website has 3 main courses (HTML, CSS, and JavaScript). 
   The 3 courses are shown on a landing page. The student can select one of the 3 courses. When the student enters a course, they find different sections about their chosen area of study.
-  These sections of learning content have been previously created by AI. The student can take quizzes on one or multiple sections. The AI will track their answers and offer feedback and learning path recommendations.
+  The learning content sections have been previously created by AI. The student can take quizzes on one or multiple sections. The AI will track their answers and offer feedback and learning path recommendations.
   In addition to the learning sections, the student can chat with the AI and ask it questions or further explanations. The student can also ask the AI for further coding exercises.
   To track the student's progress, the student will be able to log into their account. The user's progress will be saved in a database.
 
 I aim to train my own AI model using machine learning and Python.
 I also want to create the website using the skills I use at work at Genesys (Vue.js, JavaScript, HTML, CSS, Vitest). 
 
-So, in summary
+So, in summary:
 
 Key features of the project:
   * Courses on HTML, CSS, JavaScript
@@ -27,9 +27,16 @@ Key features of the project:
 Technologies:
   * IDE: VS code
   * Frontend: Vue.js, HTML, CSS, JavaScript, Typescript
-  * Backend: 
+  * Backend: Node.js
   * Database: MongoDB or PostgreSQL or MySQL
-  * AI Model: python machine learning (eg. TensorFlow, PyTorch) 
-  * Deployment :
+  * AI Model: Python machine learning (eg. TensorFlow, PyTorch) 
+  * Deployment : Huggin Face or AWS
   * Unit testing: Vitest
+  * Version control: GitHub
+  * Authentication: 
+
+Researched websites:
+For project ideas: https://huggingface.co/spaces?sort=trending&search=course
+To create my own AI: https://chatling.ai/
+Technologies to use: https://survey.stackoverflow.co/2024/technology/
 
