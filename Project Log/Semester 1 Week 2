@@ -1,0 +1,58 @@
+What I want to do this week:
+* Start the project architecture diagram
+* Make the project idea more specific with defined steps and defined technologies
+* Discuss project development with my supervisor Brian and Michelle
+
+What I have done this week:
+* Set up the project locally on my machine using VS Code. 
+* Installed necessary extensions such as Node.js, node_modules
+
+
+Steps to develop the project:
+1. Define project scope
+2. Set Up Development Environment (VS Code, Node.js, Vue.js, Python, Git, and the database)
+3. Design Application Architecture (Architecture Diagram)
+4. Build backend (Node.js + Express.js)
+5. Develop frontend
+6. Integrate user authentication
+7. Train the AI model
+8. Connect frontend and backend
+9. Add unit tests using Vitest
+10. Deploy the project
+11. Polish the UI
+12. Add documentation
+13. End to end testing to find any bugs
+
+
+Next to do: 
+* How to run the project
+* Try AWS amplify
+
+
+More specific than last week:
+
+Key features of the project:
+  * Courses on HTML, CSS, JavaScript
+  * AI learning material (sections)
+  * AI quizzes
+  * AI chat
+  * Log in
+  * Learning feedback
+  * Learning path recommendations 
+  * Learning tracking
+  * AI coding exercises
+
+Technologies:
+  * IDE: VS code
+  * Frontend: Vue.js, HTML, CSS, JavaScript, Typescript, Pinia
+  * Backend: Node.js with Express.js
+  * Database: Amplify Datastorage or MongoDB or PostgreSQL or MySQL
+  * AI Model: Python machine learning (eg. TensorFlow, PyTorch) 
+  * Deployment : AWS Amplify
+  * Unit testing: Vitest
+  * Version control: GitHub
+  * Authentication: AWS amplify authentication
+
+Researched websites:
+https://aws.amazon.com/amplify/
+https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
