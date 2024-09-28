@@ -5,6 +5,7 @@ What I want to do this week:
 * Make the project idea more specific with defined steps and defined technologies 
 
 * Discuss project development with my supervisor Brian, and Michelle 
+
   
 
 What I have done this week: 
@@ -14,6 +15,7 @@ What I have done this week:
  Installed necessary extensions such as Node.js, node_modules 
 
  Brian's advice (use AWS in the second semester because it will be covered in class in the second semester) 
+
   
 
 Steps to develop the project: 
@@ -44,12 +46,11 @@ Steps to develop the project:
 
 12. Add documentation 
 
-13. End-to-end testing to find any bugs 
+13. End to end testing to find any bugs 
 
   
 
 More specific than last week: 
-  
 
 Key features of the project: 
 
@@ -81,7 +82,7 @@ Technologies:
 
   * Backend: Node.js with Express.js 
 
-  * Database: Amplify Data storage or MongoDB or PostgreSQL or MySQL 
+  * Database: Amplify Datastorage or MongoDB or PostgreSQL or MySQL 
 
   * AI Model: Python machine learning (eg. TensorFlow, PyTorch)  
 
@@ -94,6 +95,7 @@ Python environment: Anaconda
   * Version control: GitHub 
 
   * Authentication: AWS amplify authentication or FIREBASE (recommended by Brian for its simplicity) 
+
  
 
 What I want to do before Thursday: 
@@ -126,16 +128,16 @@ Datasets or reinforcement learning for the AI?
 
 Use existing AI or train my own? 
 
- 
+Can Michelle review my architecture diagram? 
 
 
-Update: I have changed my mind about my project. I will start my project by using open AI API, then in the future, I might create my own AI. 
+
+Update: I have changed my mind about my project. I will start my project by using open AI API, then in the future I might create my own AI. 
 
  
 
 Updated steps: 
  
-
 Define Project Scope 
 
 Set Up Development Environment 
@@ -189,6 +191,49 @@ Unit Testing: Vitest
 Version Control: GitHub 
 
 Authentication: AWS Amplify Authentication or Firebase (recommended for simplicity) 
+
+ 
+
+Planning each semester: 
+
+Semester 1:  
+
+Do a basic UI 
+
+Use open AI  
+
+Display the learning application on hugging face 
+
+Create learning content for the education platform 
+
+Create a chatbox to be able to ask questions to the AI 
+
+ 
+
+Technologies: 
+
+1. VS Code 
+
+2. Python environment 
+
+3. Hugging face 
+
+
+Semester 2:   
+
+Add AI quizzes to each section of the learning course 
+
+Use a database to track the progress of the user 
+
+Create the backend (login / logout) 
+
+Create a more advanced UI 
+
+Transition to AWS 
+
+Give feedback / learning paths to the user 
+
+Create my own AI for some parts of the platform 
 
  
 
