@@ -1,58 +1,213 @@
-What I want to do this week:
-* Start the project architecture diagram
-* Make the project idea more specific with defined steps and defined technologies
-* Discuss project development with my supervisor Brian and Michelle
+What I want to do this week: 
 
-What I have done this week:
-* Set up the project locally on my machine using VS Code. 
-* Installed necessary extensions such as Node.js, node_modules
+* Start the project architecture diagram 
+
+* Make the project idea more specific with defined steps and defined technologies 
+
+* Discuss project development with my supervisor Brian, and Michelle 
+  
+
+What I have done this week: 
+
+ Set up the project locally on my machine using VS Code.  
+
+ Installed necessary extensions such as Node.js, node_modules 
+
+ Brian's advice (use AWS in the second semester because it will be covered in class in the second semester) 
+  
+
+Steps to develop the project: 
+
+1. Define project scope 
+
+2. Set Up Development Environment (VS Code, Node.js, Vue.js, Python environment, Git) 
+
+3. Design Application Architecture (Architecture Diagram) 
+
+7. Train the AI model 
+
+5. Develop frontend 
+
+4. Build backend (Node.js + Express.js) 
+
+6. Setup the database 
+
+6. Integrate user authentication 
+
+8. Connect frontend and backend 
+
+9. Add unit tests using Vitest 
+
+10. Deploy the project 
+
+11. Polish the UI 
+
+12. Add documentation 
+
+13. End-to-end testing to find any bugs 
+
+  
+
+More specific than last week: 
+  
+
+Key features of the project: 
+
+  * Courses on HTML, CSS, JavaScript 
+
+  * AI learning material (sections) 
+
+  * AI quizzes 
+
+  * AI chat 
+
+  * Log in 
+
+  * Learning feedback 
+
+  * Learning path recommendations  
+
+  * Learning tracking 
+
+  * AI coding exercises 
+
+  
+
+Technologies: 
+
+  * IDE: VS code 
+
+  * Frontend: Vue.js, HTML, CSS, JavaScript, Typescript, Pinia 
+
+  * Backend: Node.js with Express.js 
+
+  * Database: Amplify Data storage or MongoDB or PostgreSQL or MySQL 
+
+  * AI Model: Python machine learning (eg. TensorFlow, PyTorch)  
+
+Python environment: Anaconda  
+
+  * Deployment: AWS Amplify 
+
+  * Unit testing: Vitest 
+
+  * Version control: GitHub 
+
+  * Authentication: AWS amplify authentication or FIREBASE (recommended by Brian for its simplicity) 
+ 
+
+What I want to do before Thursday: 
+
+Fully setup my VS code 
+
+SETUP VIRTUAL ENVIRONMENT FOR PYTHON AND CALCULATE HOW MUCH I WILL GET DONE BEFORE XMAS. Which way to train the AI? Reinforcement learning or datasets? (PAUL'S ADVICE) Note. I think it is better to use datasets. 
+
+Confirm which technologies I want to use in my project 
+
+Basic architecture diagram 
+
+Download a hugging face project from GitHub and try it in hugging face (Brian's feedback) 
+
+ 
+
+Idea: 
+
+Do something in my project that chatGPT can't do, such as humanizing text, but it seems ok to simply use chatGPT for my project without creating my own AI. 
+
+To create a unique AI, I could train an AI model that explains code in progressively simpler or more complex ways based on a student's progress. 
+
+ 
+
+Questions: 
+
+What will I demo in Xmas? 
+
+Datasets or reinforcement learning for the AI? 
+
+Use existing AI or train my own? 
+
+ 
 
 
-Steps to develop the project:
-1. Define project scope
-2. Set Up Development Environment (VS Code, Node.js, Vue.js, Python, Git, and the database)
-3. Design Application Architecture (Architecture Diagram)
-4. Build backend (Node.js + Express.js)
-5. Develop frontend
-6. Integrate user authentication
-7. Train the AI model
-8. Connect frontend and backend
-9. Add unit tests using Vitest
-10. Deploy the project
-11. Polish the UI
-12. Add documentation
-13. End to end testing to find any bugs
+Update: I have changed my mind about my project. I will start my project by using open AI API, then in the future, I might create my own AI. 
 
+ 
 
-Next to do: 
-* How to run the project
-* Try AWS amplify
+Updated steps: 
+ 
 
+Define Project Scope 
 
-More specific than last week:
+Set Up Development Environment 
 
-Key features of the project:
-  * Courses on HTML, CSS, JavaScript
-  * AI learning material (sections)
-  * AI quizzes
-  * AI chat
-  * Log in
-  * Learning feedback
-  * Learning path recommendations 
-  * Learning tracking
-  * AI coding exercises
+Design Application Architecture 
 
-Technologies:
-  * IDE: VS code
-  * Frontend: Vue.js, HTML, CSS, JavaScript, Typescript, Pinia
-  * Backend: Node.js with Express.js
-  * Database: Amplify Datastorage or MongoDB or PostgreSQL or MySQL
-  * AI Model: Python machine learning (eg. TensorFlow, PyTorch) 
-  * Deployment : AWS Amplify
-  * Unit testing: Vitest
-  * Version control: GitHub
-  * Authentication: AWS amplify authentication
+Set Up OpenAI API 
 
-Researched websites:
-https://aws.amazon.com/amplify/
-https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+Integrate OpenAI API 
+
+Develop Frontend 
+
+Build Backend 
+
+Set Up Database 
+
+Integrate User Authentication 
+
+Connect Frontend and Backend 
+
+Add Unit Tests 
+
+Deployment 
+
+Polish the UI 
+
+Add Documentation 
+
+End-to-End Testing 
+
+ 
+
+Updated Technologies: 
+
+IDE: VS Code 
+
+Frontend: Vue.js, HTML, CSS, JavaScript, Pinia  
+
+Backend: Node.js with Express.js 
+
+Database:  
+
+AI Integration: OpenAI API for AI features 
+
+Python Environment: Anaconda ((if I add custom AI in the future) 
+
+Deployment: AWS Amplify 
+
+Unit Testing: Vitest 
+
+Version Control: GitHub 
+
+Authentication: AWS Amplify Authentication or Firebase (recommended for simplicity) 
+
+ 
+
+What I want to do before next week:  
+
+Try using open AI API. 
+
+ 
+
+Researched websites: 
+
+https://aws.amazon.com/amplify/ 
+
+https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all 
+
+Researched where to find datasets to train the AI: https://github.com/search?q=javascript%20dataset&type=repositories 
+
+https://www.kaggle.com/search?q=javascript 
+
+Followed this tutorial to learn how to integrate the open AI API into my project: How To Build Your Own AI With ChatGPT API 
+
+Authentication: https://firebase.google.com/docs/auth 
