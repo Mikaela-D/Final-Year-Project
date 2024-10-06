@@ -1,0 +1,32 @@
+What I want to do this week:
+
+	1. Fully setup my VS code
+	2. Confirm which technologies I want to use in my project
+	3. Have the project proposal nearly finished
+	4. Try using open AI API
+	5. Test how I would host my project on hugging face
+
+
+Technologies:
+	• IDE: VS Code
+	• Frontend: Vue.js, HTML, CSS, JavaScript
+	• Backend: Node.js with Express.js
+	• Database: 
+	• AI Integration: OpenAI API for AI features
+	• Python Environment: Anaconda ((if I add custom AI in the future)
+	• Deployment: AWS Amplify
+	• Unit Testing: Vitest
+	• Version Control: GitHub
+	• Authentication: AWS Amplify Authentication or Firebase (recommended for simplicity)
+
+
+UPDATE: I HAVE CHANGED PROJECT IDEA. I NO LONGER WANT TO MAKE AN AI-POWERED FULL-STACK LEARNING PLATFORM.
+
+I want to make a company driven project based on the work I do at Genesys. The project will be an AI-Powered Call Centre Platform.
+
+
+I don't know if I want to use firebase or AWS, and I don't know if I will host the project or not.
+
+Research:
+https://www.youtube.com/watch?v=q5HiD5PNuck&ab_channel=TechWithTim
+
