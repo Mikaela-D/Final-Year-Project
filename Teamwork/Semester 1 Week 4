@@ -1,0 +1,119 @@
+Video:
+https://youtu.be/q7u5kLnB4XY
+
+This week I reviewed Ciara's and Parthib's proposals. They also reviewed my proposal and I applied the feedback that they gave me. The reviews are written at the bottom of this one note page. 
+
+What I worked on last week: 
+Last week I changed my project idea to be a company driven project instead of making it separated from the work I do at Genesys
+
+What I am working on this week:
+This week I had a meeting with my manager to discuss how much of the code I have done during my internship I can reuse in my project, and he said I am welcome to reuse the code I have made for Genesys.
+I also improved my project proposal and it will submit it soon. I created a Jira account and added tickets. I also created an AWS account, and I set up my work PC for the project. 
+
+Blockers: 
+None.
+
+
+Mark:
+What I did last week: 
+• Setup a crude timeline on Jira with Epics from present – winter
+• Researched Pybop, a python package built on top of pybamm for data fitting battery data to equivalent circuit models.
+• Started work on FYP Word Proposal. 
+What I did this week: 
+• Designed a more thorough architecture diagram for my FYP Proposal.
+• Alongside my FYP proposal work, I am closing out my refactoring epic. Where I am refracting the existing Simulation API to adhere to better OOP principals
+• Starting my epic for implementing Equivalent Circuit Modelling into the API
+Blockers: No Blockers
+
+Ellen: 
+Ciara:
+Dan:
+What I did last week:
+Started my project proposal. Created an account on Jira to start working on the timeline for deliverables. Created an account on Lucidchart to work on the architecture diagram. Researched the components that I will need for my project.
+What I am doing this week:
+Finish the project proposal. Figure out the best GNSS module for my project.
+Reviewed two project proposals, one from Ellen and one from Cillian.
+
+Mikela:
+What I did last week: 
+I changed my project idea, made a new architecture diagram and made a new proposal. I changed the idea because I want to do a company driven project instead of the idea I had previously. I did a lot of research about the technologies I will use in my project.
+What I am doing this week: 
+This week I am finishing the project proposal and making sure that I chose the right technologies for my project.
+Blockers: 
+None.
+
+Cillian:
+What I did last week: I started working on my project proposal. I finished the project description.
+What I did this week: I continued working on my project proposal, I finished most parts of it but I still need to finish the architecture diagram as well as the JIRA timeline. I also reviewed Dan's and Ellen's project proposals.
+No Blockers.
+
+Proposal:
+This week I reviewed Parthib and Ciara's proposals. They also reviewed my proposal.
+
+Parthib's feedback:
+
+*Overall
+- Project functionalities (expected) are good, visible.
+- Complexity is good
+ 
+*Wondering
+- I believe you have signed NDA. Is this project gonna violet that at some point in future?
+ 
+*Missing
+- Challenges?
+- Any similar projects?
+- Research?
+
+Ciara's feedback:
+
+Hi Mikaela, 
+This is my feedback!
+Project Description:
+Good description of project. Explains what you will do and you gave a description of how you will achieve it. Also includes the background in the description of why you chose the project. In the proposal requirements it says to have a paragraph about the background with similar projects. Maybe you could add a bit on projects you could have worked on? Or researched?
+Architecture Diagram: Good diagram, explains what is happening, lots of colour:)
+Timeline: good timeline of stuff that needs to be done. Paul was suggesting in the last lecture that it would be a good idea to add a picture of a project management tool, like Jira which you said you were going to be using alongside the timeline?.
+Technologies: Shows the hardware and software technologies used
+Only thing that is missing then is the challenges. 
+But really good project proposal so far!
+
+
+Feedback I gave to Parthib:
+
+Description:
+It's a good project description. Maybe some more technical details could be added.
+ 
+Challenges:
+Missing.
+ 
+Background:
+Missing.
+ 
+Architecture diagram:
+Google maps API is duplicated. Otherwise it looks good. It's a bit confusing how the authentication will be done.
+ 
+Timeline:
+Missing.
+ 
+Software and hardware: 
+Missing.
+
+
+Feedback I gave to Ciara:
+
+Description:
+It's a good project description with good detail about the technologies in the project.
+ 
+Challenges:
+Good description about the challenges in the project.
+ 
+Background:
+The ending of the background seems to have been cut off. Anyway, good background explanation.
+ 
+Architecture diagram:
+Not added yet.
+ 
+Timeline:
+Good timeline and good management system. Maybe some of the tasks could be split into smaller tasks to make the project steps clearer.
+ 
+Software and hardware: 
+Maybe some explanation could have been added about why they were chosen for this project.
