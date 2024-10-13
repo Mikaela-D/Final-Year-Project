@@ -1,0 +1,124 @@
+This week:
+
+	1. I will start implementing a management system for my project (Jira)
+	2. I will work in sprints creating burndown charts
+	3. I will create tickets with subtasks
+	4. I will create an AWS Amplify account and learn how to use the hosting / database / authentication
+	5. I will decide which technologies to use in my project
+	6. I will ask my manager how much code I can reuse in my project
+	7. I will finish the architecture diagram
+	8. I will finish the proposal
+	
+	
+	
+Proposal:
+This week I reviewed Parthib and Ciara's proposals. They also reviewed my proposal.
+
+Parthib's feedback:
+
+*Overall
+- Project functionalities (expected) are good, visible.
+- Complexity is good
+ 
+*Wondering
+- I believe you have signed NDA. Is this project gonna violet that at some point in future?
+ 
+*Missing
+- Challenges?
+- Any similar projects?
+- Research?
+
+Ciara's feedback:
+
+Hi Mikaela, 
+This is my feedback!
+Project Description:
+Good description of project. Explains what you will do and you gave a description of how you will achieve it. Also includes the background in the description of why you chose the project. In the proposal requirements it says to have a paragraph about the background with similar projects. Maybe you could add a bit on projects you could have worked on? Or researched?
+Architecture Diagram: Good diagram, explains what is happening, lots of colour:)
+Timeline: good timeline of stuff that needs to be done. Paul was suggesting in the last lecture that it would be a good idea to add a picture of a project management tool, like Jira which you said you were going to be using alongside the timeline?.
+Technologies: Shows the hardware and software technologies used
+Only thing that is missing then is the challenges. 
+But really good project proposal so far!
+
+
+Feedback I gave to Parthib:
+
+Description:
+It's a good project description. Maybe some more technical details could be added.
+ 
+Challenges:
+Missing.
+ 
+Background:
+Missing.
+ 
+Architecture diagram:
+Google maps API is duplicated. Otherwise it looks good. It's a bit confusing how the authentication will be done.
+ 
+Timeline:
+Missing.
+ 
+Software and hardware: 
+Missing.
+
+
+Feedback I gave to Ciara:
+
+Description:
+It's a good project description with good detail about the technologies in the project.
+ 
+Challenges:
+Good description about the challenges in the project.
+ 
+Background:
+The ending of the background seems to have been cut off. Anyway, good background explanation.
+ 
+Architecture diagram:
+Not added yet.
+ 
+Timeline:
+Good timeline and good management system. Maybe some of the tasks could be split into smaller tasks to make the project steps clearer.
+ 
+Software and hardware: 
+Maybe some explanation could have been added about why they were chosen for this project.
+
+
+Updated Architecture Diagram:
+
+
+
+
+Each week, you should keep a record of what work you completed, what work you failed to complete, reflection on why your estimates were out and what you have learned from this.
+Identify your requirements (Functional & non functional)
+Planning and prioritizing project tasks effectively, and reflecting and revising regularly.
+Dealing with project changes and challenges.
+
+
+Work I completed this week:
+
+1. Started implementing a management system for my project (Jira)
+2. Create tickets 
+3. Created sprints
+4. Created an AWS Amplify account 
+5. Decided which technologies to use in my project
+6. Asked my manager how much code I can reuse in my project (he said it is ok to reuse the code I made at Genesys)
+7. Finished the architecture diagram
+8. Finished the proposal
+
+
+Work I failed to complete:
+
+1. I didn't add subtasks to my tickets yet
+2. I haven't started to learn how to use DynamoDB or AWS Auth
+
+Reflection on why my estimate was out:
+
+Because I had to study for an exam on Tuesday of the next week.
+
+What I learned from this:
+
+I will take into account study time for other subjects
+
+Requirements
+
+Better planning
